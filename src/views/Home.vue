@@ -48,7 +48,7 @@
 </template>
 
 <script>
-import { jobs } from "../queries.js";
+import { jobs } from "../graphql";
 
 export default {
   apollo: {
